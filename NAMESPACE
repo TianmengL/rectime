@@ -1,0 +1,3 @@
+useDynLib(rectime,.registration = TRUE)
+
+exportPattern("^[[:alpha:]]+")
